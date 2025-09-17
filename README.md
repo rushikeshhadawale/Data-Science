@@ -105,12 +105,3 @@ Press Ctrl + C → then type y and press Enter.
 
 Congratulations
 You have successfully set up Python, installed Jupyter Notebook, and run your first Data Science program.
-
-
-
-
-
-
-
-Ask ChatGPT
-
